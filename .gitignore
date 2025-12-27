@@ -15,3 +15,5 @@ wheels/
 # Investigation materials
 invest/
 
+.pytest_cache/
+.ruff_cache/
