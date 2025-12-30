@@ -6,11 +6,11 @@ Google Docsの箇条書きをMacのクリップボードにコピーしてSlack�
 
 例えば、このようなGoogle Docsの箇条書き
 
-![good_slack](docs/docs.png)
+<img src="docs/docs.png" width="400" alt="good_slack">
 
 これをSlackにコピーすると
 
-![bad_slack](docs/bad_slack.png)
+<img src="docs/bad_slack.png" width="400" alt="bad_slack">
 
 とフラットな箇条書きでコピーされてしまう
 
@@ -18,7 +18,7 @@ Google Docsの箇条書きをMacのクリップボードにコピーしてSlack�
 
 インデントの構造を保持してコピーできます！
 
-![good_slack](docs/good_slack.png)
+<img src="docs/good_slack.png" width="400" alt="good_slack">
 
 
 ### インストール
